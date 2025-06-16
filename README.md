@@ -1,2 +1,2 @@
-# portpolio-web-developer
+# Web Backend Developer 포트폴리오
 2025년 웹 개발자 지원 이력서의 증빙을 위한 포트폴리오를 관리하는 리포지토리입니다
